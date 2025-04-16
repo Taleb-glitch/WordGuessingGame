@@ -36,14 +36,3 @@ python word_guessing_game.py
 ├── word_guessing_game.py   # Code principal du jeu
 └── README.md               # Ce fichier d'explication
 ```
-
-## 💡 Idées d’amélioration
-
-- Ajouter différents niveaux de difficulté.
-- Afficher les lettres déjà proposées.
-- Version graphique avec `tkinter`.
-- Compteur de victoires/défaites.
-
-## 🧑‍💻 Auteur
-
-Projet Python simple pour les débutants. Créé avec ❤️ pour l’apprentissage.
