@@ -17,7 +17,7 @@ Un petit jeu en ligne de commande où vous devez deviner un mot lettre par lettr
 3. Lancez le fichier :
 
 ```bash
-python main.py
+python word_guessing_game.py
 ```
 
 4. Suivez les instructions dans le terminal.
